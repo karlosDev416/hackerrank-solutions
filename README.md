@@ -8,4 +8,5 @@
 
 | Day |Challenge|Solution|
 |:---:|:---:|:---:|
-|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1.data-types.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/1.data-types.playground/Contents.swift) |
+|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1.data-types.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/1.data-types.playground/Contents.swift) 
+|  2  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [2.operators.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/2.operators.playground/Contents.swift) |
