@@ -16,7 +16,8 @@
 |  6  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [6.lets-review.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/6.lets-review.playground/Contents.swift)
 |  7  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [7.arrays.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/7.arrays.playground/Contents.swift)
 |  8  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [8.dictionaries-maps.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/8.dictionaries-maps%20%20.playground/Contents.swift)
-|  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [9.recursion.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/9.recursion.playground/Contents.swift) |
+|  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [9.recursion.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/9.recursion.playground/Contents.swift) 
+|  10  | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [10.binary-numbers.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/10.binary-numbers.playground/Contents.swift) |
 
 
 
