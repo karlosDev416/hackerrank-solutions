@@ -19,7 +19,8 @@
 |  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [9.recursion.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/9.recursion.playground/Contents.swift) 
 |  10  | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [10.binary-numbers.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/10.binary-numbers.playground/Contents.swift) 
 |  11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [11.2d-arrays.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/11.2d-arrays.playground/Contents.swift)
-|  12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [12.inheritance.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/12.Inheritance.playground/Contents.swift) |
+|  12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [12.inheritance.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/12.Inheritance.playground/Contents.swift)
+|  13  | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [13.abstract-classes.cs](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/13.abstract-classes.cs) |
 
 
 
