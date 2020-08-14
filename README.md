@@ -21,7 +21,8 @@
 |  11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [11.2d-arrays.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/11.2d-arrays.playground/Contents.swift)
 |  12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [12.inheritance.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/12.Inheritance.playground/Contents.swift)
 |  13  | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [13.abstract-classes.cs](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/13.abstract-classes.cs) |
-|  14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [14.scope.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/14.scope.playground/Contents.swift) |
+|  14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [14.scope.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/14.scope.playground/Contents.swift)
+|  15  | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [15.linked-list.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/15.linked-list.playground/Contents.swift) |
 
 
 
