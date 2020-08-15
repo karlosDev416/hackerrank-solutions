@@ -26,5 +26,7 @@
 |  16  | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [16.exceptions.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/16.exceptions.playground/Contents.swift) |
 |  17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [17.more-exceptions.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/17.more-exceptions.playground/Contents.swift)
 |  18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [18.queues-stacks.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/18.queues-stacks.playground/Contents.swift) 
-|  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [19.interfaces.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/19.interfaces.cs) |
+|  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [19.interfaces.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/19.interfaces.cs)
+|  20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [20.sorting.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/20.sorting.playground/Contents.swift) |
+
 
