@@ -28,5 +28,6 @@
 |  18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [18.queues-stacks.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/18.queues-stacks.playground/Contents.swift) 
 |  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [19.interfaces.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/19.interfaces.cs)
 |  20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [20.sorting.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/20.sorting.playground/Contents.swift) |
+|  21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [21.generics.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/21.generics.playground/Contents.swift) |
 
 
