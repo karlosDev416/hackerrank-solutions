@@ -29,6 +29,7 @@
 |  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [19.interfaces.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/19.interfaces.cs)
 |  20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [20.sorting.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/20.sorting.playground/Contents.swift) |
 |  21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [21.generics.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/21.generics.playground/Contents.swift)
-|  22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [22.binary-search-trees.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/22.binary-search-trees.playground/Contents.swift) |
+|  22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [22.binary-search-trees.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/22.binary-search-trees.playground/Contents.swift)
+|  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [23.bst-level-order-traversal.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/23.bst-level-order-traversal.playground/Contents.swift) |
 
 
