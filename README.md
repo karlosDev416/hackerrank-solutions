@@ -34,6 +34,7 @@
 |  24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [24.more-linked-lists.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/24.more-linked-lists.playground/Contents.swift) |
 |  25  | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [25.running-time-complexity.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/25.running-time-complexity.playground/Contents.swift) 
 |  26  | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [26.nested-logic.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/26.nested-logic.playground/Contents.swift) 
-|  27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [27.testing.cpp](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/27.testing.cpp) |
+|  27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [27.testing.cpp](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/27.testing.cpp) 
+|  28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [28.regex-patterns.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/28.regex-patterns.playground/Contents.swift) |
 
 
