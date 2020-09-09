@@ -32,5 +32,6 @@
 |  22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [22.binary-search-trees.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/22.binary-search-trees.playground/Contents.swift)
 |  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [23.bst-level-order-traversal.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/23.bst-level-order-traversal.playground/Contents.swift)
 |  24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [24.more-linked-lists.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/24.more-linked-lists.playground/Contents.swift) |
+|  25  | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [25.running-time-complexity.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/30-days-of-code/25.running-time-complexity.playground/Contents.swift) |
 
 
