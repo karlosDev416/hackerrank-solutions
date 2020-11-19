@@ -6,9 +6,10 @@
 
 # Interview Preparation Kit
 
-| Subject |Challenge|Solution|
+|Subject|Challenge|Solution|
 |:---:|:---:|:---:|
-| Sorting | [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | [bubble-sort.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/interview-preparation-kit/sorting/bubble-sort.playground/Contents.swift) |
+| Sorting | [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | [bubble-sort.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/interview-preparation-kit/sorting/bubble-sort.playground/Contents.swift) 
+| Dictionaries and Hashmaps | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [count-triplets.swift](https://github.com/karlosDev416/hackerrank-solutions/blob/master/interview-preparation-kit/dictionaries-and-hashmaps/count-triplets.playground/Contents.swift) |
 
 # 30 Days of Code
 
